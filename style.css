@@ -1,0 +1,23 @@
+.webdiv{
+      background-color:cadetblue;
+}
+.namespan{
+       text-align: center;
+       color:beige;
+       
+}
+img{
+      width: 100px;
+     height: 100px;
+     padding-left: 100px;
+}
+p{
+      margin-left:60px;
+}
+.form{
+      margin-left: 100px;
+}
+footer{
+      text-align: center;
+      background-color:whitesmoke;
+}
